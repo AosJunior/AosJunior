@@ -16,10 +16,6 @@ Sou o Junior. No **Claude Descomplicado** eu traduzo o Claude, da Anthropic, par
 - **Construo na medida.** *Built to suit*: o tamanho do sistema acompanha o problema, não o contrário.
 - **Implanto junto.** A entrega é acompanhada, com quem vai usar e com critérios claros de uso.
 
-## Repositório aberto
-
-[**claude-skills**](https://github.com/AosJunior/claude-skills): skills de edição de vídeo para o Claude Code, escritas em Python.
-
 ## Ferramentas
 
 <p>
