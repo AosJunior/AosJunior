@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/hero.png" alt="claude descomplicado. Traduzo o Claude para quem não é técnico. E construo sistemas na medida do negócio." width="100%">
+  <img src="assets/banner.png" alt="claude descomplicado. Traduzo o Claude para quem não é técnico. E construo sistemas na medida do negócio." width="100%">
 </p>
 
 Sou o Junior. No **Claude Descomplicado** eu traduzo o Claude, da Anthropic, para quem não é técnico, em carrosséis, Reels e aulas. Fora do perfil, construo sistemas sob medida com Claude Code para empresas.
